@@ -63,7 +63,7 @@ def handle(x):
 
 
 
-file = open("C:\\Users\\mihai\\PycharmProjects\\AocDay4.2\\input.txt")
+file = open("input.txt")
 
 input = file.readlines()
 file.close()
